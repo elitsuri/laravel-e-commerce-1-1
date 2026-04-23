@@ -1,0 +1,16 @@
+{
+  "project_name": "laravel-e-commerce-1",
+  "generated_at": "2026-04-23T14:21:03.596289+00:00",
+  "quality_profile": "production",
+  "documentation_policy": {
+    "no_emoji": true,
+    "plain_markdown": true
+  },
+  "stack": [],
+  "file_count": 15,
+  "artifacts": {
+    "readme": "README.md",
+    "architecture_doc": "docs/ARCHITECTURE.md",
+    "operations_doc": "docs/OPERATIONS.md"
+  }
+}
